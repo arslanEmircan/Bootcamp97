@@ -31,7 +31,7 @@
 
 ## Hedef Kitle
 
-- Bir mobil cihaza sahip olan herkes.
+- Mobil cihazlara erişimi olan her yaş kitlesine uygundur.
 
 ---
 
