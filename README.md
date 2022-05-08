@@ -39,13 +39,13 @@
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. 
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: *** Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 54 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken *** puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından *** ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 110 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 36 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken turkuaz item'lar sprint backlogu, kırmızı item'ler yapılacakları, yeşil item'lar yapılıyor olanları, mor item'ler yapılanları ve lacivert item'lar yaşanan sorunları temsil etmektedir.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken turkuaz item'lar sprint backlogu, yeşil item'lar yapılıyor olanları, mor item'ler yapılanları ve lacivert item'lar yaşanan sorunları temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](***)
 
