@@ -21,7 +21,7 @@
 ## Ürün Açıklaması
 
 - *** oyunumuz, 7'den 70'e herkese her yerde oynayabileceği ve eğlenebileceği bir deneyim yaşatmayı amaçlamaktadır.
-// Product backlog url'si eklenecek.
+// Product Backlog : https://docs.google.com/spreadsheets/d/1n1EjKr8VfNs9BGmMsNv08L6uFTE20OX7/edit#gid=2021444887
 ## Ürün Özellikleri
 
 - Sade bir arayüze sahip.
@@ -47,20 +47,16 @@
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken turkuaz item'lar sprint backlogu, yeşil item'lar yapılıyor olanları, mor item'ler yapılanları ve lacivert item'lar yaşanan sorunları temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](***)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden sesli veya görüntülü olarak yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word belgesi olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Daily%20Scrum%20-%20F.Sprint.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%201.png) 
 ![Backlog 2](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%202.png) 
-![Backlog 3](***)
+![Backlog 3](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%203.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1]()
   ![Screenshot 2]()
-
-- **Sprint Review**: 
-Alınan kararlar: ***
-Sprint Review katılımcıları: ***
 
 - **Sprint Retrospective:**
     Neler iyi gitti:
