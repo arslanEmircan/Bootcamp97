@@ -21,7 +21,8 @@
 ## Ürün Açıklaması
 
 - *** oyunumuz, 7'den 70'e herkese her yerde oynayabileceği ve eğlenebileceği bir deneyim yaşatmayı amaçlamaktadır.
-// Product backlog url'si eklenecek.
+
+// Product backlog : https://docs.google.com/spreadsheets/d/1n1EjKr8VfNs9BGmMsNv08L6uFTE20OX7/edit#gid=2021444887
 ## Ürün Özellikleri
 
 - Sade bir arayüze sahip.
@@ -69,7 +70,7 @@ Sprint Review katılımcıları: ***
   - Herhangi bir konuda fikir birliğine varmada sorun yaşamadık.
     
     Neler kötü gitti:
-  - ÜK10 ürünü, bayram tatili ve yoğunluktan dolayı yapılamadı.
+  - Tahmini tamamlanması gereken hikaye puanlarını yoğunluktan dolayı tamamlayamadık. ÜK10'un tamamlanması bayram tatili sebebiyle sonraki sprinte sarktı.
   - Bazı daily scrumlar eksik kişi ile yapıldı.
     
     Neler geliştirilebilir:
