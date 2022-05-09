@@ -63,9 +63,16 @@ Alınan kararlar: ***
 Sprint Review katılımcıları: ***
 
 - **Sprint Retrospective:**
-  - ***
-  - ***
-  - ***
+    Neler iyi gitti:
+  - Kullanılacak ücretsiz assetler sorunsuz bir şekilde bulundu.
+  - Acil durumlarda birbirimiz ile iletişime geçmekte sorun yaşamadık.
+  - Herhangi bir konuda fikir birliğine varmada sorun yaşamadık.
+    Neler kötü gitti:
+  - ÜK10 ürünü, bayram tatili ve yoğunluktan dolayı yapılamadı.
+  - Bazı daily scrumlar eksik kişi ile yapıldı.
+   Neler geliştirilrbilir:
+  - Daily scrumlara tam katılım sağlanacak
+  - Her görevin atanmış sprintte yapılabilmesi için ekip çalışmasına önem verilecek
 
 -**Diğer Notlar**:
 - N/A
