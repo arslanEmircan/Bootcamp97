@@ -1,6 +1,6 @@
 # # **Takım İsmi**
 
-- 97
+- BoosTeam
 
 # Ürün İle İlgili Bilgiler
 
@@ -16,7 +16,7 @@
 
 ## Ürün İsmi
 
--- *** --
+-- Bee Swarm
 
 ## Ürün Açıklaması
 
@@ -25,9 +25,8 @@
 ## Ürün Özellikleri
 
 - Sade bir arayüze sahip.
-- Basit bir oynanışa sahip.
-- ***
-- ***
+- Joystick mekaniği ile basit ve eğlenceli bir oynanışa sahip.
+- Karakterimiz Y ve X eksenlerinde uçma yeteneğine sahip olacak ve bu oyuna ekstra bir derinlik katacak.
 
 ## Hedef Kitle
 
