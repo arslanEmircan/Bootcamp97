@@ -56,10 +56,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 
 
 - **Sprint Review**: 
-- Projeye uygun ücretsiz assetler bulundu ve eklendi, polen toplayıp sayısını artıran arı modeli tamamlandı, yol ve çevre tasarımı yapıldı. Level design çalışıp uygun enemyleri yerleştirmek ve joystic mekaniği eklemek sonraki sprinte sarktı.
-Alınan kararlar: 
-- Oyun istediğimiz yönde ilerlediği için bu sprintte backlog'a ekleme veya çıkarılma yapılmamasına karar verildi.
-Sprint Review katılımcıları: Tahsin Tayır, Muhammet Emircan Arslan, Berkay Yetiş, Ezgi Selçuk, Ayşenur Aktaş.
+   
+   - Projeye uygun ücretsiz assetler bulundu ve eklendi, polen toplayıp sayısını artıran arı modeli tamamlandı, yol ve çevre tasarımı yapıldı. Level design çalışıp    uygun enemyleri yerleştirmek ve joystic mekaniği eklemek sonraki sprinte sarktı.
+   
+   - Alınan kararlar: Oyun istediğimiz yönde ilerlediği için bu sprintte backlog'a ekleme veya çıkarılma yapılmamasına karar verildi.
+   - Sprint Review katılımcıları: Tahsin Tayır, Muhammet Emircan Arslan, Berkay Yetiş, Ezgi Selçuk, Ayşenur Aktaş.
 
 - **Sprint Retrospective:**
     
