@@ -1,6 +1,6 @@
 # # **Takım İsmi**
 
-- 97
+- BoosTeam
 
 # Ürün İle İlgili Bilgiler
 
@@ -16,18 +16,18 @@
 
 ## Ürün İsmi
 
--- *** --
+-- Bee Swarm
 
 ## Ürün Açıklaması
 
-- *** oyunumuz, 7'den 70'e herkese her yerde oynayabileceği ve eğlenebileceği bir deneyim yaşatmayı amaçlamaktadır.
-// Product backlog url'si eklenecek.
+- Bee Swarm oyunumuz, 7'den 70'e herkese her yerde oynayabileceği ve eğlenebileceği bir deneyim yaşatmayı amaçlamaktadır.
+
+// Product backlog : https://docs.google.com/spreadsheets/d/1n1EjKr8VfNs9BGmMsNv08L6uFTE20OX7/edit#gid=2021444887
 ## Ürün Özellikleri
 
 - Sade bir arayüze sahip.
-- Basit bir oynanışa sahip.
-- ***
-- ***
+- Joystick mekaniği ile basit ve eğlenceli bir oynanışa sahip.
+- Karakterimiz Y ve X eksenlerinde uçma yeteneğine sahip olacak ve bu oyuna ekstra bir derinlik katacak.
 
 ## Hedef Kitle
 
@@ -52,15 +52,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%201.png) 
 ![Backlog 2](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%202.png) 
-![Backlog 3](***)
+![Backlog 3](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%203f.png)
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]()
-  ![Screenshot 2]()
 
 - **Sprint Review**: 
-Alınan kararlar: ***
-Sprint Review katılımcıları: ***
+   
+   - Projeye uygun ücretsiz assetler bulundu ve eklendi, polen toplayıp sayısını artıran arı modeli tamamlandı, yol ve çevre tasarımı yapıldı. Level design çalışıp    uygun enemyleri yerleştirmek ve joystic mekaniği eklemek sonraki sprinte sarktı.
+   
+   - Alınan kararlar: Oyun istediğimiz yönde ilerlediği için bu sprintte backlog'a ekleme veya çıkarılma yapılmamasına karar verildi.
+   - Sprint Review katılımcıları: Tahsin Tayır, Muhammet Emircan Arslan, Berkay Yetiş, Ezgi Selçuk, Ayşenur Aktaş.
 
 - **Sprint Retrospective:**
     
@@ -70,15 +70,13 @@ Sprint Review katılımcıları: ***
   - Herhangi bir konuda fikir birliğine varmada sorun yaşamadık.
     
     Neler kötü gitti:
-  - ÜK10 ürünü, bayram tatili ve yoğunluktan dolayı yapılamadı.
+  - Tahmini tamamlanması gereken hikaye puanlarını yoğunluktan dolayı tamamlayamadık. ÜK10'un tamamlanması bayram tatili sebebiyle sonraki sprinte sarktı.
   - Bazı daily scrumlar eksik kişi ile yapıldı.
     
     Neler geliştirilebilir:
   - Daily scrumlara tam katılım sağlanacak
   - Her görevin atanmış sprintte yapılabilmesi için ekip çalışmasına önem verilecek
 
--**Diğer Notlar**:
-- N/A
 
 ---
 
