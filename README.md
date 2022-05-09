@@ -21,7 +21,7 @@
 ## Ürün Açıklaması
 
 - *** oyunumuz, 7'den 70'e herkese her yerde oynayabileceği ve eğlenebileceği bir deneyim yaşatmayı amaçlamaktadır.
-// Product backlog url'si eklenecek.
+//https://docs.google.com/spreadsheets/d/1n1EjKr8VfNs9BGmMsNv08L6uFTE20OX7/edit#gid=2021444887
 ## Ürün Özellikleri
 
 - Sade bir arayüze sahip.
