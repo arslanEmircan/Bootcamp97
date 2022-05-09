@@ -52,7 +52,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%201.png) 
 ![Backlog 2](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%202.png) 
-![Backlog 3](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%203.png)
+![Backlog 3](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%203f.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1]()
