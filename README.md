@@ -23,6 +23,7 @@
 - Bee Swarm oyunumuz, 7'den 70'e herkese her yerde oynayabileceği ve eğlenebileceği bir deneyim yaşatmayı amaçlamaktadır.
 
 // Product backlog : https://docs.google.com/spreadsheets/d/1n1EjKr8VfNs9BGmMsNv08L6uFTE20OX7/edit#gid=2021444887
+// Trello : https://trello.com/invite/b/z39bLl0O/55b33441c539b6664b215e22d27e7c09/haftalik-plan
 ## Ürün Özellikleri
 
 - Sade bir arayüze sahip.
