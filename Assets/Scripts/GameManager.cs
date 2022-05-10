@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+    public int CharacterQuantity = 1;
 
     public GameObject player;
 
