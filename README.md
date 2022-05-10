@@ -24,7 +24,7 @@
 
 // Product backlog : https://docs.google.com/spreadsheets/d/1n1EjKr8VfNs9BGmMsNv08L6uFTE20OX7/edit#gid=2021444887
            
-// Trello :
+// Trello : https://trello.com/invite/b/5XjRxT8d/58c48bc32359b2bb28918679910804ef/0
 ## Ürün Özellikleri
 
 - Sade bir arayüze sahip.
