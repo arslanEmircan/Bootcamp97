@@ -7,6 +7,7 @@ public class PlayerMovement1 : MonoBehaviour
     public float runSpeed = 40f;
     public float horizontalSpeed = 40f;
     public float forwardSpeed = 100f;
+    public float verticalSpeed = 45f;
 
     public Joystick joystick;
     public Rigidbody rb;
@@ -22,8 +23,8 @@ public class PlayerMovement1 : MonoBehaviour
     void FixedUpdate()
     {
         Vector3 direction = Vector3.forward * forwardSpeed + Vector3.right * joystick.Horizontal * horizontalSpeed;
-        direction.y = -42f * Time.deltaTime;
+        direction.y = joystick.Vertical * verticalSpeed;
         rb.velocity = direction * runSpeed * Time.fixedDeltaTime;
-
+        
     }
 }
