@@ -18,6 +18,7 @@ public class ObjectPool : MonoBehaviour
         for (int j = 0; j < pools.Length; j++)
         {
             pools[j].pooledObjects = new Queue<GameObject>();
+
             for (int i = 0; i < pools[j].poolSize; i++)
             {
                 GameObject obj = Instantiate(pools[j].objectPrefab, transform.position, Quaternion.identity);
@@ -32,11 +33,16 @@ public class ObjectPool : MonoBehaviour
         {
             return null;
         }
-
         GameObject obj = pools[objectType].pooledObjects.Dequeue();
         obj.transform.position = position;
         obj.SetActive(true);
         pools[objectType].pooledObjects.Enqueue(obj);
         return obj;
+    }
+    public void DeactivePooledObject(int objectType)
+    {      
+        GameObject obj = pools[objectType].pooledObjects.Dequeue();
+        obj.gameObject.name = "TZZ";
+        obj.SetActive(false);  
     }
 }

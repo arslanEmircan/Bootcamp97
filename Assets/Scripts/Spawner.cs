@@ -21,27 +21,68 @@ public class Spawner : MonoBehaviour
     }
     private void SpawnNews()
     {
-        for (int i = 0; i < Quantity; i++)
-        {
-            Instantiate(MyCharacter, new Vector3(MyCharacter.transform.position.x + 4, MyCharacter.transform.position.y, MyCharacter.transform.position.z - 1), Quaternion.identity);
-        }
+        float b = 0.1f;
+        Vector3 newVector = new Vector3(MyCharacter.transform.position.x + b, MyCharacter.transform.position.y, MyCharacter.transform.position.z - 1);
+
         switch (islem)
         {
             case "carpi":
                 int total1 = GameManager.CharacterQuantity * Quantity;
                 for (int i = 0; i < (total1) - GameManager.CharacterQuantity; i++)
                 {
-                    Instantiate(MyCharacter, new Vector3(MyCharacter.transform.position.x + 4, MyCharacter.transform.position.y, MyCharacter.transform.position.z - 1), Quaternion.identity);
+                    //Vector3 newVector = new Vector3(MyCharacter.transform.position.x + b, MyCharacter.transform.position.y, MyCharacter.transform.position.z - 1);
+                    GameObject bees = ObjectPoolList.SharedInstance.GetPooledObject(); 
+                     if (bees != null) {
+                        bees.transform.position = newVector;    
+                        bees.SetActive(true);
+                     }
+                    b = -b;                
                 }
                 GameManager.CharacterQuantity = GameManager.CharacterQuantity * Quantity;
                 break;
             case "topla":
-
                 for (int i = 0; i < Quantity; i++)
                 {
-                    Instantiate(MyCharacter, new Vector3(MyCharacter.transform.position.x + 1, MyCharacter.transform.position.y, MyCharacter.transform.position.z - 1), Quaternion.identity);
+                    GameObject bees = ObjectPoolList.SharedInstance.GetPooledObject();
+                    if (bees != null)
+                    {
+                        bees.transform.position = newVector;
+                        bees.SetActive(true);
+                    }
+                    b = -b;
                 }
                 GameManager.CharacterQuantity += Quantity;
+                break;
+            case "cikar":
+                for (int i = 0; i < Quantity; i++)
+                {
+                    if (GameManager.CharacterQuantity -1 >= 1)
+                    {
+                        ObjectPoolList.SharedInstance.DeactivePooledObject();
+                        Debug.Log("cikar");
+                        GameManager.CharacterQuantity--;
+                    }                   
+                }
+                //GameManager.CharacterQuantity -= Quantity;
+                break;
+
+            case "bol":
+                if(GameManager.CharacterQuantity > Quantity)
+                {
+                    int lastValue = (int) Mathf.CeilToInt(GameManager.CharacterQuantity / Quantity);
+                 
+                    while (GameManager.CharacterQuantity!= lastValue+1)
+                    {
+                        Debug.Log("bol" + lastValue + " bu kadar kaldi" + GameManager.CharacterQuantity);
+
+                        if (GameManager.CharacterQuantity - 1 >= 1)
+                        {
+                            ObjectPoolList.SharedInstance.DeactivePooledObject();
+                            Debug.Log("ne kaldi " + GameManager.CharacterQuantity);
+                            GameManager.CharacterQuantity--;
+                        }
+                    }
+                }                
                 break;
             default:
                 break;
