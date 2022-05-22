@@ -83,9 +83,20 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 ---
 
 # Sprint 2
-- **Daily Scrum**: Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](***)
+ **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. 
 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 51 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 110 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde her sprintte en azından 36 puanlık kısmın tamamlanması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken turkuaz item'lar sprint backlogu, yeşil item'lar yapılıyor olanları, mor item'ler yapılanları ve lacivert item'lar yaşanan sorunları temsil etmektedir.
+
+- **Daily Scrum**: Görevlerin haftalık olarak atanmasına ve haftada 2 kez discord üzerinden görüşülmesine karar verildi. 
+- Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](***)
+
+- **Sprint 2 board update**: Sprint board screenshotları: 
 ![Backlog 1]() 
 ![Backlog 2]() 
 ![Backlog 3]()
@@ -93,7 +104,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 
 - **Sprint Review**: 
    
-   - Projeye uygun ücretsiz assetler bulundu ve eklendi, polen toplayıp sayısını artıran arı modeli tamamlandı, yol ve çevre tasarımı yapıldı. Level design çalışıp    uygun enemyleri yerleştirmek ve joystic mekaniği eklemek sonraki sprinte sarktı.
+   - Arı modeli sorunsuz bir şekilde oluşturuldu ve eklendi, joystick mekaniği projeye eklendi, UI için çalışmalarımız devam ediyor, level design'da belirli bir aşama kaydedildi. Kullanıcının skorunu tutacak sistem sonraki sprinte sarktı.
    
    - Alınan kararlar: Oyun istediğimiz yönde ilerlediği için bu sprintte backlog'a ekleme veya çıkarılma yapılmamasına karar verildi.
    - Sprint Review katılımcıları: Tahsin Tayır, Muhammet Emircan Arslan, Berkay Yetiş, Ezgi Selçuk, Ayşenur Aktaş.
@@ -101,17 +112,17 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 - **Sprint Retrospective:**
     
     Neler iyi gitti:
-  - Kullanılacak ücretsiz assetler sorunsuz bir şekilde bulundu.
+  - Çevre, arı ve enemyler için gerekli tüm assetler bulundu ve görevlerin çoğunluğu tamamlandı.
   - Acil durumlarda birbirimiz ile iletişime geçmekte sorun yaşamadık.
   - Herhangi bir konuda fikir birliğine varmada sorun yaşamadık.
     
     Neler kötü gitti:
-  - Tahmini tamamlanması gereken hikaye puanlarını yoğunluktan dolayı tamamlayamadık. ÜK10'un tamamlanması bayram tatili sebebiyle sonraki sprinte sarktı.
+  - Tamamlanması tahmin edilen hikaye puanına ekip üyelerinin yoğunluğu ve yaşadığı sıkıntılardan ötürü ulaşılamadı.
   - Bazı daily scrumlar eksik kişi ile yapıldı.
     
     Neler geliştirilebilir:
-  - Daily scrumlara tam katılım sağlanacak
-  - Her görevin atanmış sprintte yapılabilmesi için ekip çalışmasına önem verilecek
+  - Daily scrumlara tam katılım sağlanacak.
+  - Her görevin atanmış sprintte yapılabilmesi için ekip çalışmasına önem verilecek.
 
 # Sprint 3
 
