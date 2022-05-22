@@ -83,9 +83,35 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 ---
 
 # Sprint 2
+- **Daily Scrum**: Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](***)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1]() 
+![Backlog 2]() 
+![Backlog 3]()
 
 
----
+- **Sprint Review**: 
+   
+   - Projeye uygun ücretsiz assetler bulundu ve eklendi, polen toplayıp sayısını artıran arı modeli tamamlandı, yol ve çevre tasarımı yapıldı. Level design çalışıp    uygun enemyleri yerleştirmek ve joystic mekaniği eklemek sonraki sprinte sarktı.
+   
+   - Alınan kararlar: Oyun istediğimiz yönde ilerlediği için bu sprintte backlog'a ekleme veya çıkarılma yapılmamasına karar verildi.
+   - Sprint Review katılımcıları: Tahsin Tayır, Muhammet Emircan Arslan, Berkay Yetiş, Ezgi Selçuk, Ayşenur Aktaş.
+
+- **Sprint Retrospective:**
+    
+    Neler iyi gitti:
+  - Kullanılacak ücretsiz assetler sorunsuz bir şekilde bulundu.
+  - Acil durumlarda birbirimiz ile iletişime geçmekte sorun yaşamadık.
+  - Herhangi bir konuda fikir birliğine varmada sorun yaşamadık.
+    
+    Neler kötü gitti:
+  - Tahmini tamamlanması gereken hikaye puanlarını yoğunluktan dolayı tamamlayamadık. ÜK10'un tamamlanması bayram tatili sebebiyle sonraki sprinte sarktı.
+  - Bazı daily scrumlar eksik kişi ile yapıldı.
+    
+    Neler geliştirilebilir:
+  - Daily scrumlara tam katılım sağlanacak
+  - Her görevin atanmış sprintte yapılabilmesi için ekip çalışmasına önem verilecek
 
 # Sprint 3
 
