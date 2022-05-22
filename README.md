@@ -111,16 +111,16 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 
 - **Sprint Retrospective:**
     
-    Neler iyi gitti:
+    *Neler iyi gitti*:
   - Çevre, arı ve enemyler için gerekli tüm assetler bulundu ve görevlerin çoğunluğu tamamlandı.
   - Acil durumlarda birbirimiz ile iletişime geçmekte sorun yaşamadık.
   - Herhangi bir konuda fikir birliğine varmada sorun yaşamadık.
     
-    Neler kötü gitti:
+    *Neler kötü gitti*:
   - Tamamlanması tahmin edilen hikaye puanına ekip üyelerinin yoğunluğu ve yaşadığı sıkıntılardan ötürü ulaşılamadı.
   - Bazı daily scrumlar eksik kişi ile yapıldı.
     
-    Neler geliştirilebilir:
+    *Neler geliştirilebilir*:
   - Daily scrumlara tam katılım sağlanacak.
   - Her görevin atanmış sprintte yapılabilmesi için ekip çalışmasına önem verilecek.
 
