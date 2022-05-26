@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class UIMainAnim : MonoBehaviour
 {
-    float speedx = 1f;
-    float speed = 0.1f;
+    
     Rigidbody rb;
     Animator anim;
 
@@ -25,8 +24,7 @@ public class UIMainAnim : MonoBehaviour
     {
         if (other.gameObject.CompareTag("go"))
         {
-            //Vector3 vector3 = new Vector3(1f, 1f, 1f);
-            //transform.position += vector3 * speed;
+            
             Debug.Log("çarpýþtý");
             rb.AddForce(transform.forward*1500);
             anim.SetBool("UIMove",true);
