@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement1 : MonoBehaviour
 {
@@ -27,4 +28,5 @@ public class PlayerMovement1 : MonoBehaviour
         rb.velocity = direction * runSpeed * Time.fixedDeltaTime;
         
     }
+  
 }
