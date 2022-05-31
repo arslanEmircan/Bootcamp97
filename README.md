@@ -49,12 +49,12 @@
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken turkuaz item'lar sprint backlogu, yeşil item'lar yapılıyor olanları, mor item'ler yapılanları ve lacivert item'lar yaşanan sorunları temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](***)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]([https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%201/Daily%20Scrum%20-%20F.Sprint.docx])
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%201.png) 
-![Backlog 2](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%202.png) 
-![Backlog 3](https://github.com/arslanEmircan/Bootcamp97/blob/main/First%20Sprint/Product%20Backlog%203f.png)
+![Backlog 1](https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%201/Product%20Backlog%201.png)
+![Backlog 2](https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%201/Product%20Backlog%202.png) 
+![Backlog 3](https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%201/Product%20Backlog%203f.png)
 
 
 - **Sprint Review**: 
@@ -83,9 +83,49 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 ---
 
 # Sprint 2
+ **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 51 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 110 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde her sprintte en azından 36 puanlık kısmın tamamlanması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken turkuaz item'lar sprint backlogu, yeşil item'lar yapılıyor olanları, mor item'ler yapılanları ve lacivert item'lar yaşanan sorunları temsil etmektedir.
+
+- **Daily Scrum**: Görevlerin haftalık olarak atanmasına ve haftada 2 kez discord üzerinden görüşülmesine karar verildi. 
+- Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%202/Sprint%202%20Daily%20Scrum.docx)
+
+- **Sprint 2 board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%202/Sprint%202%20Bakclog%201.png) 
+![Backlog 2](https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%202/Sprint%202%20Backlog%202.png) 
+ 
+ **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%202/Sprint%202%20-%20SS1.png)
+  ![Screenshot 2](https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%202/Sprint%202%20-%20SS2.png)
 
 
----
+- **Sprint Review**: 
+   
+   - Arı modeli sorunsuz bir şekilde oluşturuldu ve eklendi, joystick mekaniği projeye eklendi, UI için çalışmalarımız devam ediyor, level design'da belirli bir aşama kaydedildi. Kullanıcının skorunu tutacak sistem sonraki sprinte sarktı.
+   
+   - Alınan kararlar: Oyun istediğimiz yönde ilerlediği için bu sprintte backlog'a ekleme veya çıkarılma yapılmamasına karar verildi.
+   - Sprint Review katılımcıları: Tahsin Tayır, Muhammet Emircan Arslan, Berkay Yetiş, Ezgi Selçuk, Ayşenur Aktaş.
+
+- **Sprint Retrospective:**
+    
+    *Neler iyi gitti*:
+  - Çevre, arı ve enemyler için gerekli tüm assetler bulundu ve görevlerin çoğunluğu tamamlandı.
+  - Acil durumlarda birbirimiz ile iletişime geçmekte sorun yaşamadık.
+  - Herhangi bir konuda fikir birliğine varmada sorun yaşamadık.
+    
+    *Neler kötü gitti*:
+  - Tamamlanması tahmin edilen hikaye puanına ekip üyelerinin yoğunluğu ve yaşadığı sıkıntılardan ötürü ulaşılamadı.
+  - Bazı daily scrumlar eksik kişi ile yapıldı.
+    
+    *Neler geliştirilebilir*:
+  - Daily scrumlara tam katılım sağlanacak.
+  - Her görevin atanmış sprintte yapılabilmesi için ekip çalışmasına önem verilecek.
 
 # Sprint 3
 
