@@ -17,7 +17,7 @@ public class GameManager : MonoBehaviour
     {
         if (player.transform.position.y < -1)
         {
-            SceneManager.LoadSceneAsync(0);
+            SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex);
         }
     }
     
