@@ -81,19 +81,20 @@ public class Spawner : MonoBehaviour
                 break;
 
             case "bol":
-                if(GameManager.CharacterQuantity > Quantity)
+                if(GameManager.CharacterQuantity >= Quantity)
                 {
                     int lastValue = (int) Mathf.CeilToInt(GameManager.CharacterQuantity / Quantity);
-                 
-                    while (GameManager.CharacterQuantity!= lastValue+1)
+                    Debug.Log("last"+lastValue);
+                    while (GameManager.CharacterQuantity!= lastValue)
                     {
-                        Debug.Log("bol" + lastValue + " bu kadar kaldi" + GameManager.CharacterQuantity);
+                        
 
                         if (GameManager.CharacterQuantity - 1 >= 1)
                         {
                             ObjectPoolList.SharedInstance.DeactivePooledObject();
-                            Debug.Log("ne kaldi " + GameManager.CharacterQuantity);
+                            
                             GameManager.CharacterQuantity--;
+                            Debug.Log("ne kaldi " + GameManager.CharacterQuantity);
                         }
                     }
                 }                
