@@ -5,7 +5,7 @@ using UnityEngine;
 public class CameraMotor : MonoBehaviour
 {
     public Transform lookAt; //Our Character // object we're looking at
-    public Vector3 offset = new Vector3(0, 5.0f, -10.0f);
+    public Vector3 offset = new Vector3(0, 5.0f, -30.0f);
 
     private void LateUpdate()
     {

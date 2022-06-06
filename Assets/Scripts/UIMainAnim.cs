@@ -7,6 +7,7 @@ public class UIMainAnim : MonoBehaviour
     
     Rigidbody rb;
     Animator anim;
+    public float speed;
 
     void Start()
     {
@@ -26,7 +27,7 @@ public class UIMainAnim : MonoBehaviour
         {
             
             Debug.Log("çarpýþtý");
-            rb.AddForce(transform.forward*1500);
+            rb.AddForce(transform.forward*speed);
             anim.SetBool("UIMove",true);
         }    
     }
