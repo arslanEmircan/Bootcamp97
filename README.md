@@ -168,6 +168,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
   - Bazı daily scrumlar eksik kişi ile yapıldı.
   - Son sprint kararları uygulamaya sokulamadı ve proje istenen aşamaya getirilemedi.
     
- *Neler geliştirilebilir*:
-- Ekip üyeleri görevleri tammalanması gereken sürede tamamlayabilir.
+    *Neler geliştirilebilir*:
+  - Ekip üyeleri görevleri tammalanması gereken sürede tamamlayabilir.
 
