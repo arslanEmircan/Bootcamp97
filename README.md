@@ -139,11 +139,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken turkuaz item'lar sprint backlogu, yeşil item'lar yapılıyor olanları, mor item'ler yapılanları ve lacivert item'lar yaşanan sorunları temsil etmektedir.
 
 - **Daily Scrum**: Görevlerin haftalık olarak atanmasına ve haftada 2 kez discord üzerinden görüşülmesine karar verildi. 
-- Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%202/Sprint%202%20Daily%20Scrum.docx)
+- Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/arslanEmircan/Bootcamp97/blob/39df7a3a02e9f8bc8f98e9e8d60474391a6b872a/Sprint%203/Sprint%203%20-%20Daily%20Scrum.docx)
 
 - **Sprint 2 board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%202/Sprint%202%20Bakclog%201.png) 
-![Backlog 2](https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%202/Sprint%202%20Backlog%202.png) 
+![Backlog 1](https://github.com/arslanEmircan/Bootcamp97/blob/39df7a3a02e9f8bc8f98e9e8d60474391a6b872a/Sprint%203/Sprint%203%20-%20Backlog%201.png) 
+![Backlog 2](https://github.com/arslanEmircan/Bootcamp97/blob/39df7a3a02e9f8bc8f98e9e8d60474391a6b872a/Sprint%203/Sprint%203%20-%20Backlog%202.png) 
  
  **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/arslanEmircan/Bootcamp97/blob/e49fcf31195320b87057f2442b3eda3893f42a06/Sprint%202/Sprint%202%20-%20SS1.png)
